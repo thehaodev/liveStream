@@ -1,0 +1,14 @@
+<resources>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+
+
+    <string name="app_name">LiveStreamProject</string>
+    <string name="login">Login</string>
+
+
+    <string name="addCustomer">Add Customer</string>
+
+    <string name="registerFragmentId">registerFragmentId</string>
+
+</resources>

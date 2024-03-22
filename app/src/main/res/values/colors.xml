@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">#70BE54</color>
+    <color name="colorPrimaryDark">#00701a</color>
+    <color name="colorAccent">#76d275</color>
+
+    <color name="colorHalfPrimary">#8070BE54</color>
+
+    <color name="colorLogoRed">#F9485E</color>
+
+    <!-- text -->
+    <color name="text_default">#3A3A3A</color>
+    <color name="text_shipping_policy">#282369</color>
+    <color name="text_shipping_policy_light">#0070C0</color>
+    <color name="text_sub">#919eab</color>
+    <color name="text_hint">#A7ABB9</color>
+    <color name="text_error">#EB0050</color>
+    <color name="text_disable">#C4CDD5</color>
+    <color name="ripple_effect">#A7ABB9</color>
+    <color name="border">#DADADA</color>
+    <color name="overlay">#66C4C4C4</color>
+
+    <color name="transparent">#00FFFFFF</color>
+    <color name="gray_light">#F2F2F6</color>
+    <color name="gray_dark">#3A3A3A</color>
+    <color name="light_steel_blue">#A7ABB9</color>
+    <color name="main_bg">#FFFFFF</color>
+    <color name="royal_blue">#6170F7</color>
+    <color name="royal_blue_dark">#7170F7</color>
+    <color name="tomato">#FF5656</color>
+    <color name="gray">#DDDDDD</color>
+    <color name="mouse_hair_gray">#DDDDDD</color>
+    <color name="yellow">#ffc33a</color>
+    <color name="orange">#FFAA45</color>
+    <color name="pink_light">#FDEBEB</color>
+    <color name="pink">#FBCDCD</color>
+    <color name="red">#EB5757</color>
+    <color name="mint">#CEEFCE</color>
+    <color name="mint_light">#EBF9EB</color>
+    <color name="sky">#CFD9FE</color>
+    <color name="sky_light">#ECF0FF</color>
+
+    <color name="dodger_blue">#007AFF</color>
+
+
+
+
+</resources>
